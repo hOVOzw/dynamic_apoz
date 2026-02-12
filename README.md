@@ -265,7 +265,6 @@ python evaluate_baseline.py
 ## 参考资料
 
 - **APoZ 原始论文**：Network Trimming: A Data-Driven Neuron Pruning Approach towards Efficient Deep Architectures
-- **PAPM 创新点**：参数-激活联合驱动的自适应剪枝策略
 - **ResNet 原始论文**：Deep Residual Learning for Image Recognition
 
 ## 许可证
