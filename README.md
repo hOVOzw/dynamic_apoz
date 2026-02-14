@@ -2,7 +2,7 @@
 
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.0+-blue.svg)](https://pytorch.org/)
 [![Python 3.8+](https://img.shields.io/badge/Python-3.8+-green.svg)](https://www.python.org/)
-[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![License](https://img.shields.io/badge/License-Apache--2.0-blue.svg)](LICENSE)
 
 基于 **Parameter-based Adaptive APoZ Pruning (PAPM)** 的卷积神经网络模型压缩框架。
 
@@ -265,8 +265,9 @@ python evaluate_baseline.py
 ## 参考资料
 
 - **APoZ 原始论文**：Network Trimming: A Data-Driven Neuron Pruning Approach towards Efficient Deep Architectures
+- **PAPM 创新点**：参数-激活联合驱动的自适应剪枝策略
 - **ResNet 原始论文**：Deep Residual Learning for Image Recognition
 
 ## 许可证
 
-MIT License
+Apache License 2.0
