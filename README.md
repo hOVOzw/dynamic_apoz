@@ -4,7 +4,7 @@
 [![Python 3.8+](https://img.shields.io/badge/Python-3.8+-green.svg)](https://www.python.org/)
 [![License](https://img.shields.io/badge/License-Apache--2.0-blue.svg)](LICENSE)
 
-基于 **Parameter-based Adaptive APoZ Pruning (PAPM)** 的卷积神经网络模型压缩框架。
+**Parameter-based Adaptive APoZ Pruning (PAPM)** 卷积神经网络模型压缩框架。
 
 ## 核心创新
 
